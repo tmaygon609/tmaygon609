@@ -1,6 +1,5 @@
 ### Hi 👋
 
-<!--
 **tmaygon609/tmaygon609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Me gusta nadar y practicar cualquier tipo de deporte.
 - 📫 Mi correo: tmaygon609@iesalmudeyne.es
 - 😄 Pronouns: ...
--->
+
