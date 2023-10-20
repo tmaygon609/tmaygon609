@@ -1,12 +1,39 @@
 ## Hola 👋
 
-**tmaygon609/tmaygon609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En este repositorio, voy añadir mi CV. 
 
-Here are some ideas to get you started:
+Para que me conozcais un poco:
 
-- 🔭 Yo estoy trabajando de practicas en NTT Data.
-- 🌱 Actualmente estoy estudiando un grado superior de Desarrollo de aplicaciones web.
-- 💬 Me gusta nadar y practicar cualquier tipo de deporte.
-- 📫 Mi correo: tmaygon609@iesalmudeyne.es
-- 😄 Pronouns: ...
+- :computer: Estoy trabajando de practicas en NTT Data.
+- :green_book: Actualmente estoy estudiando un grado superior de Desarrollo de Aplicaciones Web.
+- :dolphin: Me gusta nadar y practicar cualquier tipo de deporte.
+- 
+## Tecnologías y Lenguajes usados
+
+Las tecnologías, IDES, lenguajes que he utilizado tanto en los estudios como en el trabajo son:
+
+- Lenguajes
+1. Java
+2. JavaScript
+3. HTML
+4. CSS
+5. PHP
+6. Markdown
+7. MySql
+8. Oracle SQL
+- Ides
+1. Eclipse
+2. Visual Studio Code
+3. SQL Developer
+- Tecnologías
+1. Spring
+2. Spring Boot
+3. Spring Data
+4. Hibernate
+
+Lo máximo que he hecho es:
+~~~
+int texto = Hola Mundo;
+system.Out.prinln(texto);
+~~~
 
