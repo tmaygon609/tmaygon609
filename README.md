@@ -11,7 +11,9 @@ Para que me conozcais un poco:
 ## Contacto
 
 Podéis contactar conmigo por correo, si es algo más urgente, al teléfono.
-:email: `*tmaygon609@iesalmudeyne.es*`
+:email: ~~~
+tmaygon609@iesalmudeyne.es
+~~~
 :iphone: **697123456**
 
 ## Tecnologías y Lenguajes usados
