@@ -7,7 +7,13 @@ Para que me conozcais un poco:
 - :computer: Estoy trabajando de practicas en NTT Data.
 - :green_book: Actualmente estoy estudiando un grado superior de Desarrollo de Aplicaciones Web.
 - :dolphin: Me gusta nadar y practicar cualquier tipo de deporte.
-- 
+
+## Contacto
+
+Podéis contactar conmigo por correo, si es algo más urgente, al teléfono.
+:email: `*tmaygon609@iesalmudeyne.es*`
+:iphone: **697123456**
+
 ## Tecnologías y Lenguajes usados
 
 Las tecnologías, IDES, lenguajes que he utilizado tanto en los estudios como en el trabajo son:
